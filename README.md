@@ -1,4 +1,4 @@
-esp32_sound_and_light
+esp32_light_and_sound
 =====================
 
 This is a project-in-progress using LEDs and sound sensors to do interesting things with the ESP32 system on a chip by Espressif.
